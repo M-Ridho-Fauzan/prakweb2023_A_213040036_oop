@@ -2,7 +2,7 @@
 
 <h1 style="align: center;" >بِسْــــــــــــــــــــــمِ اللّهِ الرَّحْمَنِ الرَّحِيْم</h1>
 
-Tempat upload tugas
+<h1 style="text-align: center;"> Tempat upload tugas </h1>
 
 <h2>pert 3</h2>
 Properti adalah untuk merepresentasikan data/keadaan dari sebuah objek
