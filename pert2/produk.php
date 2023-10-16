@@ -31,7 +31,7 @@ class Produk {
 // $produk2 -> tambahProperty = "kontol";
 // var_dump($produk2);
 
-
+// ini untuk mendefinisikan sebuah komik
 $produk3 = new Produk();
 $produk3 -> judul = "Muhammad Naruto";
 $produk3 -> penulis = "Masahi Kisimoto";
@@ -45,7 +45,7 @@ echo "<br>";
 echo $produk3->getLabel();
 
 echo"<hr>";
-
+// ini untuk mendefinisikan sebuah game
 $produk4 = new Produk();
 $produk4 -> judul = "Naruto Ultimate 3";
 $produk4 -> penulis = "tidak tahu";
