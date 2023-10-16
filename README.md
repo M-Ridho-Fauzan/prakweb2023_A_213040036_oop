@@ -1,7 +1,7 @@
 # prakweb2023_A_213040036_oop
 <div  style="align: center;">
   <h1> بِسْــــــــــــــــــــــمِ اللّهِ الرَّحْمَنِ الرَّحِيْم </h1>
-  <h1> Tempat upload tugas </h1>
+  <h2> Tempat upload tugas </h2>
   <h1> Penjelasan Setiap pertemuan </h1>
 </div>
 
