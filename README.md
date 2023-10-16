@@ -2,6 +2,7 @@
 <div  style="align: center;">
   <h1> بِسْــــــــــــــــــــــمِ اللّهِ الرَّحْمَنِ الرَّحِيْم </h1>
   <h1> Tempat upload tugas </h1>
+  <h1> Penjelasan Setiap pertemuan </h1>
 </div>
 
 <h2>pert 3</h2>
