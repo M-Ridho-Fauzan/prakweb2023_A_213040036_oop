@@ -1,7 +1,6 @@
 # prakweb2023_A_213040036_oop
-<div  style="text-align: center;">
-  <h1>بِسْــــــــــــــــــــــمِ اللّهِ الرَّحْمَنِ الرَّحِيْم</h1>
-  
+<div  style="align: center;">
+  <h1> بِسْــــــــــــــــــــــمِ اللّهِ الرَّحْمَنِ الرَّحِيْم </h1>
   <h1> Tempat upload tugas </h1>
 </div>
 
