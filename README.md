@@ -1,5 +1,7 @@
 # prakweb2023_A_213040036_oop
 
+<h1 style="text-align: center;" >بِسْــــــــــــــــــــــمِ اللّهِ الرَّحْمَنِ الرَّحِيْم</h1>
+
 Tempat upload tugas
 
 <h2>pert 3</h2>
@@ -30,3 +32,5 @@ lihat p6 untuk melihat rincian masalah mengenai Inhritence.
 Memperbaiki dari yang pert 6
 
 <h2>pert 8 - Overriding </h2>
+Adalah sebuah istilah dimana kita bisa membuat (Menimpa) method di class child yang memiliki nama yang sama dengan parrent nya.
+# This adalah instans yang bersangkutan.
